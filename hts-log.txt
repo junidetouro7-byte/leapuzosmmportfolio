@@ -1,5 +1,5 @@
-HTTrack3.49-2+htsswf+htsjava launched on Wed, 04 Feb 2026 11:06:09 at https://leapuzodirectordvc.framer.website/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
-(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://leapuzodirectordvc.framer.website/ -O1 "C:\My Web Sites\framer portfolio" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 04 Feb 2026 11:13:33 at https://leapuzosmmdvc.framer.website/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://leapuzosmmdvc.framer.website/ -O1 "C:\My Web Sites\framer portfolio smm" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
 
 Information, Warnings and Errors reported for this mirror:
 note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
@@ -7,5 +7,5 @@ note:	the hts-log.txt file, and hts-cache folder, may contain sensitive informat
 	do not share these files/folders if you want these information to remain private
 
 
-HTTrack Website Copier/3.49-2 mirror complete in 9 seconds : 12 links scanned, 11 files written (946981 bytes overall) [648558 bytes received at 72062 bytes/sec], 353934 bytes transferred using HTTP compression in 2 files, ratio 11%, 3.0 requests per connection
+HTTrack Website Copier/3.49-2 mirror complete in 7 seconds : 13 links scanned, 12 files written (1526408 bytes overall) [1241125 bytes received at 177303 bytes/sec], 340852 bytes transferred using HTTP compression in 2 files, ratio 11%, 3.2 requests per connection
 (No errors, 0 warnings, 0 messages)
